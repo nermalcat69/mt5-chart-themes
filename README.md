@@ -1,1 +1,1 @@
-# METATRADE 5 CHART THEMES :) 
+# Metatrader 5 Chart Themes
